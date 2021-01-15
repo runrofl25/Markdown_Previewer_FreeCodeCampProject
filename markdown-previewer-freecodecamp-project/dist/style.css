@@ -1,0 +1,20 @@
+/* <!-- Recieved help from 
+Dylan Israel from youtube https://www.youtube.com/watch?v=N7Mrj0WrvnM&ab_channel=DylanIsrael massive credit goes to him -->
+
+<!-- Recieved more help from Florin Pop youtube channel https://www.youtube.com/watch?v=CJt7uZD_iK0&t=180s&ab_channel=FlorinPop on how to structure the Markdown Previewer Major credit goes to him --> */
+
+body{
+  background-color: #1abc9c;
+}
+
+.preview {
+  background-color: white;
+}
+
+.preview img{
+  max-width: 100%;
+}
+
+textarea, .preview {
+  min-height: 400px;
+}
